@@ -1,16 +1,5 @@
-# tic_tac
+- Tic Tac Game 🎮
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/ahmedzayan7920/tic_tac/assets/88338596/c4227387-4ba0-4acf-a4ef-cbb96f63564c
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
